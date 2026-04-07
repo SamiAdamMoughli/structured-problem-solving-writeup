@@ -13,3 +13,4 @@ This writeup demonstrates my approach to:
 
 ## Full Writeup
 
+Read the full writeup (PDF): https://github.com/SamiAdamMoughli/structured-problem-solving-writeup/blob/main/SamiAdamMoughli_Writeup_Structured_Problem_Solving.pdf

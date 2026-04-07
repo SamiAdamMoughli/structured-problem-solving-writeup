@@ -1,5 +1,3 @@
-# structured-problem-solving-writeup
-
 # From Partial Information to Full Access
 
 A practical reflection on structured problem solving and reducing uncertainty in technical systems.
